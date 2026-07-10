@@ -1,3 +1,9 @@
+# Chapter 13 SCI
+
+This repository contains the SCI calculation tutorial mentioned in **Chapter 13** of the book:
+
+[**Cloud Computing for Artificial Intelligence: Concepts, Methods, and Practical Tools**](https://amzn.eu/d/02lMPIKf)
+
 # Carbon Tracking API
 
 This project provides a FastAPI-based application integrated with CodeCarbon to measure and track carbon emissions during simulated tasks.
